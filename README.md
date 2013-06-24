@@ -80,8 +80,13 @@ About the author :
 * <a href="http://tn.linkedin.com/pub/mohamed-amine-cherif/19/a13/835/"> Me </a> ? Thank u what about u ?
 * twitter <a href="https://twitter.com/maccherif"> maccherif </a>
 
+Case u don't understand this script:
+------------------------------------
+It's not a secret be smart and do like that u understand it's all what we do all the time else forget about your promotion !
+
+
 Regards
 -------
 * Thank u for all your feed back and feel free to commit new crazy things .
-* Sorry about my poor English (I need a teacher)
+* Sorry about my poor English (I need a cute English Teacher Girl Friend ;) )
 * Good Luck!
