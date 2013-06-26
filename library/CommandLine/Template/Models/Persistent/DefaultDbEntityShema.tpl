@@ -61,7 +61,7 @@ class Application_Model_Persistent_%current_entityDbMapper extends CommandLine_M
      */
     protected function _hydrate($row)
     {
-        $%current_entity = new Application_Model_%current_entity();
+        $%current_entity = new Application_Model_Entity_%current_entity();
         $attributes = array_keys($this->getDbShema());
         $setters = $this->generateModelSetters();
         foreach ($attributes as $iterator => $attribut){
